@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Varad Chiney!
 
-<!--
-**cvarad96/cvarad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+Tech enthusiast passionate about open-source, self-hosted systems, and scalable solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Kali Linux | PHP | Docker | Shell Scripting  
+- Building self-hosted servers | Problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Employee Rating System](https://github.com/cvarad96/employee-rating-system)  
+- [Pi-Hosted](https://github.com/cvarad96/pi-hosted)  
+- [Coova-Chilli Fork](https://github.com/cvarad96/coova-chilli)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvarad96&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/varad-chiney/) | [GitHub](https://github.com/cvarad96)
